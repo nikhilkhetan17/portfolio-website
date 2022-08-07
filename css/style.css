@@ -52,7 +52,7 @@ nav {
   font-size: 1.7rem;
   background-color: #292929;
   padding: 0.5rem 2rem;
-  border-radius: 0.8rem;
+  border-radius: 0.2rem;
 }
 
 /* ------------------------------------------------------------- */
@@ -145,7 +145,7 @@ nav {
     font-size: 1.3rem;
     background-color: #292929;
     padding: 0.25rem 1rem;
-    border-radius: 0.8rem;
+    border-radius: 0.2rem;
   }
 
   .section-1_right p {
