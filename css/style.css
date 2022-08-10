@@ -103,13 +103,6 @@ nav {
 
 /* -----------------------------------Media query--------------------------- */
 
-@media screen and (max-width: 1285px) {
-  /* .section-1 {
-    flex-direction: column;
-    gap: 5rem 0;
-  } */
-}
-
 @media screen and (max-width: 730px) {
   .logo img {
     display: none;
